@@ -1,6 +1,6 @@
 CatcherTran::MtkCommIOInit()...
-[commModule][MtkCommIOLog]C:\Users\kimda\OneDrive\Máy tính\TrackerVNET\FW_UpgradeMulti\FW_Upgrade_Multi_V3.90.01\\MtkCommIODLL.dll
+[commModule][MtkCommIOLog]C:\Users\BH-VNET01\Desktop\FW_UpgradeMulti\FW_Upgrade_Multi_V3.90.01\\MtkCommIODLL.dll
 [commModule][MtkCommIOLog]Load MtkCommIO Library Failed...
 [CatcherTran][MtkCommIOLog]MtkCommIODll_Init Failed.
-[commModule][MtkCommIOLog]Rs232Module::Internal_Start().......m_port = 20, baud = 115200
-[commModule][MtkCommIOLog]Rs232Module::Internal_Start().......hCOM = 0x105C
+[commModule][MtkCommIOLog]Rs232Module::Internal_Start().......m_port = 4, baud = 115200
+[commModule][MtkCommIOLog]Rs232Module::Internal_Start().......hCOM = 0x161C
