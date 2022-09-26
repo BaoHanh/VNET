@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "HOST PORT",
+    "Port": "COM7",
+    "Baudrate": 9600,
+    "DataSize": 8,
+    "StopBits": 1,
+    "Parity": "None",
+    "Timeout": 0,
+    "MaxLenght": 0,
+    "EndMessage": "*#",
+    "Reserver": null
+  },
+  {
+    "Name": "PORT-1",
+    "Port": "COM15",
+    "Baudrate": 9600,
+    "DataSize": 8,
+    "StopBits": 1,
+    "Parity": "None",
+    "Timeout": 100,
+    "MaxLenght": 32,
+    "EndMessage": "FFFF",
+    "Reserver": null
+  },
+  {
+    "Name": "PORT-2",
+    "Port": "COM16",
+    "Baudrate": 9600,
+    "DataSize": 8,
+    "StopBits": 1,
+    "Parity": "None",
+    "Timeout": 100,
+    "MaxLenght": 32,
+    "EndMessage": "FFFF",
+    "Reserver": null
+  },
+  {
+    "Name": "PORT-3",
+    "Port": "COM6",
+    "Baudrate": 9600,
+    "DataSize": 8,
+    "StopBits": 1,
+    "Parity": "None",
+    "Timeout": 100,
+    "MaxLenght": 32,
+    "EndMessage": "FFFF",
+    "Reserver": null
+  }
+]
