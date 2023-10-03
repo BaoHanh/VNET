@@ -1,0 +1,20 @@
+Firmware Version: Le4.2.3.08-230921.094559
+Release Type: Normal
+Applied Models: TG102LE-4G (GD)
+
+New Features:
+	- Kết nối server update khi có cuộc gọi hoặc tin nhắn từ admin phone
+	- 
+
+Improvement:
+	- Giảm thời gian kết nối đến server
+	- Giảm thời gian chờ kết nối đến server khi gặp tình trạng mất sóng
+	- Sửa lỗi mất kết nối khi nhận tin nhắn hoặc cuộc gọi đến.
+	- Hủy cuộc gọi khi có cuộc gọi đến
+	- Tăng tốc xử lý khi có yêu cầu update
+	- Tăng khả năng xử lí SMS, truyền data qua TCP
+	- Sửa lỗi gửi lệnh cấu hình HEX cảm biến Soji
+
+NOTE:
+	- Lệnh W27... CÓ THỂ không phản hồi nếu sử dụng bằng SMS
+	
