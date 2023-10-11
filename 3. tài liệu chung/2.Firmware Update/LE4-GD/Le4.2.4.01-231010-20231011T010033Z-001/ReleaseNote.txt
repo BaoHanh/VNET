@@ -1,0 +1,20 @@
+Firmware Version: Le4.2.4.01-231010
+Release Type: Normal
+Applied Models: TG102LE-4G (GD)
+
+New Features:
+	- Định dạng ID theo thiết bị lấy 4 số đầu là 0055
+	- Thay đổi định danh tb từ 0x005f->0x0055
+	- Bổ sung gói tin CCID
+
+Improvement:
+	- look thiết bị từ 30 ngày -> 24 giờ theo thơi gian hoạt động thiết bị
+	- Sửa các lỗi về vẽ hành trình tại các góc cua thay đổi nhỏ 
+	- Cải thiện gói tin truyền khi xe chạy
+	- Giảm tần suất truyền khi dừng. thay đổi linh hoạt thời gian truyền khi xe chạy.
+	- Giảm sử dụng xử lý trong các thời điểm quan trọng
+	- Sửa lỗi nhảy cell ko nhận đủ packet (không login đc), làm mới sau 30 phút 
+
+Note:
+	- Không hỗ trợ update fw module
+	
