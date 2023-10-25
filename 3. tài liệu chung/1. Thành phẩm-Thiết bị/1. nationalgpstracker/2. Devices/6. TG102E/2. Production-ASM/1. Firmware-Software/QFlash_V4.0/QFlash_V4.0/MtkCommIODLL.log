@@ -1,6 +1,0 @@
-CatcherTran::MtkCommIOInit()...
-[commModule][MtkCommIOLog]F:\workspace\VnET-Tracker\vnettracker_MC60\QFlash_V4.0\QFlash_V4.0\\MtkCommIODLL.dll
-[commModule][MtkCommIOLog]Load MtkCommIO Library Failed...
-[CatcherTran][MtkCommIOLog]MtkCommIODll_Init Failed.
-[commModule][MtkCommIOLog]Rs232Module::Internal_Start().......m_port = 12, baud = 115200
-[commModule][MtkCommIOLog]Rs232Module::Internal_Start().......hCOM = 0x1224
