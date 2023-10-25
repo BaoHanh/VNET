@@ -1,5 +1,0 @@
-DRC Rules Export File for PCB: E:\Project\Project 2021\ACT01\Design\Ver2.0.220427_RS232\Circuit\pcb\ACT01_RS232 V2.0.PcbDoc
-RuleKind=Clearance|RuleName=Polygon|Scope=Board|Minimum=15.75
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

@@ -1,8 +1,0 @@
-﻿Yêu cầu đặt PCB:
-- Vật liệu: FR4 - 2 lớp
-- Độ dày phíp: 1.0mm
-- Độ dày lớp đồng: 1.0oz
-- Kiểu mạ: Mạ thiếc
-- Màu phủ: Xanh lá, chữ trắng
-- Ghép Panel: 
-- Số lượng:
