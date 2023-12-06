@@ -1,0 +1,20 @@
+Firmware Version: Le4.2.5-231204
+Release Type: Normal
+Applied Models: TG102LE-4G (only for GD)
+
+New Features:
+	- Cấu hình cảm biến và loại giao thức không cần khởi động lại.
+	- Bổ sung giá trị off set cho giá trị cảm biến cảm biến (xem hướng dẫn cấu hình).
+	- Bổ sung lại cảm biến JT606 (vd cấu hình: #W49 3,0000,9600,900,100.*)
+	- Thông báo update xong khi gửi lệnh bằng SMS.
+
+Improvement:
+	- Truyền dày gói tin khi khởi động.
+	- Tối ưu gói tin gộp 37, bổ sung gói tin giá trị cảm biến từ ADC1..ADC4.
+	- Giá trị Level sensor được gán bằng ADC4 (do thay đổi cấu trúc gói tin 37).
+	- Gói tin cảm biến sẽ được truyền với chu kỳ 3600s nếu không được cấu hình.
+
+
+NOTE: Tên phiên bản được chuyển từ thông số xuống 2 thông số mục đích giảm giảm số ký tự trạng thái.
+
+	
