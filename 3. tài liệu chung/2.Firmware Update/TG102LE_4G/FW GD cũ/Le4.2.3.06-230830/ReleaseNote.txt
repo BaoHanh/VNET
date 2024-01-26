@@ -1,0 +1,15 @@
+Firmware Version: Le4.2.3.06-230830.092049
+Release Type: Normal
+Applied Models: TG102LE-4G (GD)
+
+New Features:
+	- None
+
+Improvement:
+	- sửa lỗi hay bị kết nối chậm 1 số trường hợp
+	- Giảm thời gian mất kết nối server xuống 5 phút nhưng không phải reset module
+	- sửa lôi lệnh w02
+	- sửa lỗi hay fail trong fota
+	- View sử dung 2G hay 4G trong lệnh đọc trạng thái.
+	- Tối ưu xử lí GSM
+	- Sửa lỗi mất cấu hình cảm biến

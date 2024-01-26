@@ -1,0 +1,16 @@
+Firmware Version: Le4.2.3.09-230922
+Release Type: Normal
+Applied Models: TG102LE-4G (GD)
+
+New Features:
+	- 
+	- 
+
+Improvement:
+	- Sửa lỗi hiện thị số tin nhắn cấu hình
+	- Sửa lỗi sai vĩ độ nhỏ hơn 10.
+	- THời gian kết nối server sẽ là 30 phút tính từ thời điểm kết nối trước đó
+
+NOTE:
+	- Không hỗ trợ update fw module
+	
