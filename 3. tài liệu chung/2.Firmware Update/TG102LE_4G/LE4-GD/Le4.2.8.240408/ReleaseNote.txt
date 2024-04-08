@@ -1,0 +1,14 @@
+Firmware Version: Le4.2.8-240408
+Release Type: Normal
+Applied Models: TG102LE-4G (only for GD)
+
+New Features:
+	- Reset thiết bị khi ở 2G quá lâu (Điều khiện là xe dừng, hoặc chỉ reset module khi xe chạy)
+
+Improvement:
+	- Sửa lỗi đọc ghi thẻ lái xe
+	-
+
+NOTE: 
+
+	
