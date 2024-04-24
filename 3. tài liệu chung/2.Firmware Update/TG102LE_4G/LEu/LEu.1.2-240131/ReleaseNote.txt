@@ -1,0 +1,13 @@
+Firmware Version: LEu.1.2-240131
+Release Type: Normal
+Applied Models: TG102LEupg
+
+New Features:
+	- None
+
+Improvement:
+	- Sửa lỗi ko nhận motion LIS3DSH
+
+NOTE: 
+
+	
