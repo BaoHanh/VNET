@@ -1,0 +1,19 @@
+Firmware Version: Le4.2.9-240627
+Release Type: Normal
+Applied Models: TG102LE-4G (only for GD)
+
+New Features:
+	- Bổ sung gói tin chứa GPLX và Tên Lái xe.
+	- Thiết bị không khởi động lại vào 00h00 mà khởi động sau thơi gian cài đặt và khi xe dừng.
+	- Bổ sung trạng thái khởi động lại ở lệnh #R01.*, nếu bị khởi động lại bằng nguồn sẽ có dấu (-) ở sau thời gian khởi động
+	- Thay đổi thống kê data sử dụng theo tháng ở lệnh #R01 gprs.*
+
+Improvement:
+	- Tối ưu đọc lỗi đọc/ghi thẻ.
+	- Tối ưu xử lý gói tin truyền.
+	- Sửa lỗi đọc/ghi treo khối RFID.
+	- Sửa lỗi không phản hồi lệnh SMS lệnh #R91.*
+
+NOTE: 
+
+	
