@@ -1,0 +1,15 @@
+Firmware Version: Le4.3.1-241115
+Release Type: Normal
+Applied Models: TG102LE-4G (only for GD)
+
+New Features:
+	- Cho phép cấu hình thời gian truyền xuống mức thấp nhất là 1s
+
+Improvement:
+	- Sửa lỗi đọc RFID, loại bỏ các data bị đọc sai.
+	- Sửa lỗi không clear số lần lái xe liên tục
+	- Sửa lỗi trích xuất thời gian dung bị trễ 100 giây
+
+NOTE: nếu từ các bản thấp từ trước Le4.2.6-240102 nâng lên sẽ mất ít nhất khoảng 2 phút để online 
+
+	
