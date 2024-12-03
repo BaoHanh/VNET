@@ -1,0 +1,18 @@
+Firmware Version: LEu.1.7-241122
+Release Type: Normal
+Applied Models: TG102LEupg
+
+New Features:
+	- Thêm cảnh báo cho quá thời gian lái xe trong ngày
+	- Cho phép cấu hình thời gian truyền xuống mức thấp nhất là 1s
+	- Đọc chân ADC nếu không dùng HUB
+
+Improvement:
+	- Sửa lỗi đọc RFID, loại bỏ các data bị đọc sai.
+	- Sửa lỗi liên quan đến QCVN không clear số lần lái xe liên tục, tính thời điểm dừng đỗ
+	- Sửa lỗi đọc IO ENG dung ALT
+	- Tối ưu hiệu suất xử lý liên quan đến QCVN
+
+NOTE: nếu từ các bản thấp nâng lên sẽ mất khoảng 2 phút để online
+
+	
