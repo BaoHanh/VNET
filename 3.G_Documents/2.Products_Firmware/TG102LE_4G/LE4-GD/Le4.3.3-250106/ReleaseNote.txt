@@ -1,0 +1,12 @@
+Firmware Version: Le4.3.3-250106
+Release Type: Normal
+Applied Models: TG102LE-4G (55)
+
+New Features:
+	- None
+
+Improvement:
+	- Sửa lỗi xoá thời gian nếu sai thời gian
+	- Sửa lỗi báo quên quẹt thẻ.
+
+	
