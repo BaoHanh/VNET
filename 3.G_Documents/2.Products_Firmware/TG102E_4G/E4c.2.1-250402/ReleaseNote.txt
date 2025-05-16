@@ -1,0 +1,14 @@
+Firmware Version: E4c.2.1-250402
+Release Type: Normal
+Applied Models: TG102E-4G (0080)
+
+New Features:
+	- 
+
+Improvement:
+	- giảm thời gian reset module xuống khoảng 10 phút khi mất sóng
+	
+
+NOTE:
+
+	
