@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=C25 Old Footprint=0402 - C New Footprint=0603 - C
+Change Component Footprint: Designator=C32 Old Footprint=0402 - C New Footprint=0603 - C
+Change Component Footprint: Designator=R11 Old Footprint=0402 - R New Footprint=0603 - R
+Change component parameters: Designator = "C25" ("C25"); Footprint = "0402 - C"; UniqueID = "\KZUTFWLC\YJBNVVQB" ("\KZUTFWLC\YJBNVVQB")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_CAP_C0603 NM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "C0603: NM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "0402 - C"; UniqueID = "\KZUTFWLC\LITARLXC" ("\KZUTFWLC\LITARLXC")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_CAP_C0603 NM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "C0603: NM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "0402 - R"; UniqueID = "\KZUTFWLC\GZBPDVIE" ("\KZUTFWLC\GZBPDVIE")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_RES_R0603 0R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603FR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "R0603: 0R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
