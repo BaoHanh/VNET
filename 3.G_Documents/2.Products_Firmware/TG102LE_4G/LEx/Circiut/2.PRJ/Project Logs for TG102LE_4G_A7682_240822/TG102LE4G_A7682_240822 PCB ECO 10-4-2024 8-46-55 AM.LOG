@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAP_ALUM_SMD_6354_TYPE_D New Footprint=CAP_ALUM_SMD_5054_TYPE_C
+Change Component Comment : Designator=C3 Old Comment=220uF/6.3V New Comment=10uF/35V
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP_ALUM_SMD_6354_TYPE_D"; UniqueID = "\OPYHJFYV\EIDGQTMR" ("\OPYHJFYV\EIDGQTMR")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_CAP_ALU 10uF 35V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "UWT1V100MCL1GB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF/35V"; VariantName = "[No Variations]"
