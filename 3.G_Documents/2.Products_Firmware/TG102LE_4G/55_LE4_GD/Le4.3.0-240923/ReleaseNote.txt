@@ -1,0 +1,17 @@
+Firmware Version: Le4.3.0-240923
+Release Type: Normal
+Applied Models: TG102LE-4G (only for GD)
+
+New Features:
+	- Thêm cảnh báo cho quá thời gian lái xe trong ngày
+
+Improvement:
+	- Sửa lỗi ngược thời gian lái xe.
+	- Sửa lỗi cảnh báo.
+	- Sửa lỗi gửi số điện thoại bị sai.
+	- Không truyền cùng gói tin 33 khi phát sinh các gói tin khác.
+	- Thay đổi lệnh #W66 .* bỏ phần cấu hình cảnh báo trong ngày, khi bật cảnh báo là bật cảnh báo cho thời gian lái xe liên tục và thời gian trong ngày.
+
+NOTE: nếu từ các bản thấp từ trước Le4.2.6-240102 nâng lên sẽ mất ít nhất khoảng 2 phút để online 
+
+	

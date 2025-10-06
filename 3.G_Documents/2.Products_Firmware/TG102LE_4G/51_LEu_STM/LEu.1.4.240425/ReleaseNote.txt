@@ -1,0 +1,15 @@
+Firmware Version: LEu.1.4.240425
+Release Type: Normal
+Applied Models: TG102LEupg
+
+New Features:
+	- 
+
+Improvement:
+	- Tránh vẽ sao khi dừng.
+	- cho phép chuyển từ trạng thái dừng sang chạy ở tốc độ thấp.
+	- Sửa lỗi đọc/ghi RFID
+
+NOTE: nếu từ các bản thấp nâng lên sẽ mất khoảng 2 phút để online
+
+	

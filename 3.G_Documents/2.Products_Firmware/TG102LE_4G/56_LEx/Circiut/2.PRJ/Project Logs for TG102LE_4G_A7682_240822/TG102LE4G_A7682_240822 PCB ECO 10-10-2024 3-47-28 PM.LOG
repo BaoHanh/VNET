@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=V_MCU Pin=R33-1
+Removed Pin From Net: NetName=NetQ5_1 Pin=R33-2
+Removed Member From Class: ClassName=U_06 RFID Member=R33
