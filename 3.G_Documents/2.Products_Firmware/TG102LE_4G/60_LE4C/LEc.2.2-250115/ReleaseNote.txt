@@ -1,0 +1,14 @@
+Firmware Version: LEc.2.2.250115
+Release Type: Normal
+Applied Models: TG102LE-4G (0060)
+
+New Features:
+	- chỉ ghi nhận các dữ liệu hành trình và lái xe khi thời gian hợp lệ
+
+Improvement:
+	- Sửa lỗi xoá thời gian lái xe nếu sai thời gian
+
+
+NOTE: Không update các bản từ 1.6 trở về trước sẽ gây ra mất cấu hình.
+
+	

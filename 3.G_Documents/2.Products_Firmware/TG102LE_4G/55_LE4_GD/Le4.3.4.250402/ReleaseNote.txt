@@ -1,0 +1,12 @@
+Firmware Version: Le4.3.4-250402
+Release Type: Normal
+Applied Models: TG102LE-4G (55)
+
+New Features:
+	- None
+
+Improvement:
+	- Sửa lỗi đọc ADC chậm
+	- giảm thời gian reset module xuống khoảng 10 phút khi mất sóng
+
+	

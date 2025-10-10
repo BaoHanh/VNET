@@ -1,0 +1,14 @@
+Firmware Version: Le4.2.7-240126
+Release Type: Normal
+Applied Models: TG102LE-4G (only for GD)
+
+New Features:
+	- None
+
+Improvement:
+	- Sửa lỗi không nhận nhận HUB
+	- Tối ưu thời khởi động lại nếu bị treo LTE
+
+NOTE: 
+
+	
