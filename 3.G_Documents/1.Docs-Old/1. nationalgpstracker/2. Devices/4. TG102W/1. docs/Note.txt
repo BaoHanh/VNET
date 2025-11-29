@@ -1,4 +1,0 @@
-- sử dụng tài liệu tại thư mục: ../../3. TG102VI/1. docs
-sự khác biệt giữa W và VI
-- TG102W là phiên bản sử dụng bộ 64 Megabit
-- TG102VI là phiên bản sử dụng bộ 256 Megabit

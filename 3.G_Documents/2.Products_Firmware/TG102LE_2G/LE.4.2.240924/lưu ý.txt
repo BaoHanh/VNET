@@ -1,1 +1,0 @@
-fix lỗi sai thời gian gps về năm 2006

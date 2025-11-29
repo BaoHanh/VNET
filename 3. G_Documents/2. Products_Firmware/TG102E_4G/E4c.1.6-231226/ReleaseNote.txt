@@ -1,0 +1,19 @@
+Firmware Version: E4c.1.4-231204
+Release Type: Normal
+Applied Models: TG102E-4G (0080)
+
+New Features:
+	- Cấu hình cảm biến và loại giao thức không cần khởi động lại.
+	- Thông báo update xong khi gửi lệnh bằng SMS.
+	- THử lại 5 lần khi FOTA bị lỗi.
+
+Improvement:
+	- Truyền dày gói tin khi khởi động.
+	- Tối ưu gói tin gộp 37, bổ sung gói tin giá trị cảm biến từ ADC1..ADC4.
+	- Gói tin cảm biến sẽ được truyền với chu kỳ 3600s nếu không được cấu hình.
+	- Xử lý lỗi nhảy khi dừng 
+	
+
+NOTE:
+
+	

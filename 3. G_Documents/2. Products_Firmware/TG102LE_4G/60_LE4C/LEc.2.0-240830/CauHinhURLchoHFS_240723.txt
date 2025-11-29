@@ -1,0 +1,27 @@
+	* @file    CauHinhURLchoHFS_240723
+	* @author  HaoNT08
+	* @version V1.0
+	* @date    23-July-2024
+	* @brief   AP dụng cho các TB update qua HTTP file (0060, 0061, 0080)
+
+
+ - Cấu trúc khi download: <url thư mục chứa file>/fwapp_xxxx.bin
+	Trong đó <url thư mục chứa file> là thư mục chứa file của server
+	fwapp_xxxx.bin Tên file, vd: LEc có mã 0060 thì file sẽ là fwapp_0060.bin
+	
+ - Cấu hình URL #W60 URL,<url thư mục chứa file>.*
+	VD: #W06 URL,http://update.vnetgps.com:6767/fwtracker.*
+	Khi này đường dẫn sẽ là http://update.vnetgps.com:6767/fwtracker
+	Khi download file firmwate thì TB sẽ sử dụng là http://update.vnetgps.com:6767/fwtracker/fwapp_xxxx.bin
+
+ - Lệnh đọc cấu hình #R60 URL.*
+ 
+ Lưu ý: 
+	- Trong cú pháp lệnh chữ URL phải viết hoa.
+	- Độ dài URL từ 8-90
+	- URL mặc định: http://update.vnetgps.com:6767/fwtracker
+	- Lệnh cấu hình chỉ áp dụng cho hostphone hoặc từ server
+	
+ Các cú pháp liên quan:
+	- Chạy update cho thiết bị: #W06 UPDATEVV.*
+	- Dừng chạy update: #W06 0.* (không áp dụng cho tb download qua HFS vì tốc độ tải file nhanh)

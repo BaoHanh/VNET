@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PowerCameraVR102 V1.0.PrjPcb]
+   Generated File[PowerCameraVR102 V1.0.TXT]
+   Generated File[PowerCameraVR102 V1.0.LDP]
+   Generated File[PowerCameraVR102 V1.0.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:45:50 On 11/01/2021

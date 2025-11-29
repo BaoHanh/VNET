@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "ADC_EXTERN",
+    "Offset": "100",
+    "Interval": "5"
+  },
+  {
+    "Name": "NTC",
+    "Offset": "100",
+    "Interval": "5"
+  }
+]

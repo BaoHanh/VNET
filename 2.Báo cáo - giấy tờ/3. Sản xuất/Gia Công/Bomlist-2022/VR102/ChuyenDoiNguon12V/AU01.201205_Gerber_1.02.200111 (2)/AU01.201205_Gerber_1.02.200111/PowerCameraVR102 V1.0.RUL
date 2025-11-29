@@ -1,6 +1,0 @@
-DRC Rules Export File for PCB: E:\2020_09_PowerCameraVR102\Design\PowerCameraVR102 V1.02\Circuit\pcb\PowerCameraVR102 V1.0.PcbDoc
-RuleKind=Clearance|RuleName=Polygon|Scope=Board|Minimum=15.75
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
