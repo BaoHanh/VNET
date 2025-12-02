@@ -1,6 +1,6 @@
 github: baohanh@vn-et.com, Baohanh@vnetgps
 gmail: baohanh@vn-et.com, VNETbaohanh@123789
-vnetgps.com: pkt_bh,vnet12358@
+vnetgps.com: pkt_bh,vnetgps@bh12358
 vitrioto.com - gps.vnetgps.com: pkt_bh,vnetgps@bh12358
 gpsvnet.com: pptsp, 123456
 viettelpost: 0983267926, Baohanh@123456
