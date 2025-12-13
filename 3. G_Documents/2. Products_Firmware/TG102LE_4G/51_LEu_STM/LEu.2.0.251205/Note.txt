@@ -1,0 +1,3 @@
+- Fix lỗi mất cấu hình
+- Các config trong bản này sẽ được lưu trữ sang vùng nhớ riêng
+- Mã này cố định 4 số đầu ID là 0051 nên các bạn lưu ý khi setup hoặc sửa chữa cố định đầu số này, nếu k setup đúng thiết bị khởi động lại n sẽ lấy mặc định thành 0051
