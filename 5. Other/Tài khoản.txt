@@ -4,5 +4,5 @@ vnetgps.com: pkt_bh,vnetgps@bh12358
 vitrioto.com - gps.vnetgps.com: pkt_bh,vnetgps@bh12358
 gpsvnet.com: pptsp, 123456
 viettelpost: 0983267926, Baohanh@123456
-zalo: bhsx@vnet7926
+zalo: vnetgps@bh12358
 base.vn: dùng gmail baohanh@vn-et.com đăng nhập
