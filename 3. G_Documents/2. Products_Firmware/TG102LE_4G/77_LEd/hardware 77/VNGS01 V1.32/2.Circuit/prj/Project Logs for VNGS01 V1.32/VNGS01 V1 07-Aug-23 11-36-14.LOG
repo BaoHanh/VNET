@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=2V8 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Change Component Footprint: Designator=C8 Old Footprint=0402 - C New Footprint=0603 - C
+Change Component Comment : Designator=C8 Old Comment=NM New Comment=100nF
+Change Component Designator: OldDesignator=1V8 NewDesignator=J8
+Change component parameters: Designator = "C8" ("C8"); Footprint = "0402 - C"; UniqueID = "\RGYAVWAA" ("\RGYAVWAA")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_T? ÐI?N_C0603 100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CL10C104JB8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "C0603: 100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=2V8 Pin=C8-2

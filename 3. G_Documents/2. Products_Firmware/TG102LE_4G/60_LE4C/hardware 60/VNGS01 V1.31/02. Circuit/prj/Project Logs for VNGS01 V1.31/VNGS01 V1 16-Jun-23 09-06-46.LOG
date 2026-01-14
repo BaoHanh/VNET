@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C4 Old Footprint=3528 - TANTALUM New Footprint=CAP_ALUM_SMD_6354_TYPE_D
+Change component parameters: Designator = "C4" ("C4"); Footprint = "3528 - TANTALUM"; UniqueID = "\OJYLSWKV" ("\OJYLSWKV")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_CAP ALU 220uF 6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Su'scon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CS006M221E5APKKKV00R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220uF/6.3V"; VariantName = "[No Variations]"

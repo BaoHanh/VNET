@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=GND? NewDesignator=GND1
+Change Component Designator: OldDesignator=GND? NewDesignator=GND2
+Added Member To Class: ClassName=03 Power DC Member=Component GND2

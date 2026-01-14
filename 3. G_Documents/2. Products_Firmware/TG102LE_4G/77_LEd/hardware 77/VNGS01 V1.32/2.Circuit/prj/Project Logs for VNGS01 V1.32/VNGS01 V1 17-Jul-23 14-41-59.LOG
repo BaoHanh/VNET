@@ -1,0 +1,114 @@
+Removed Pin From Net: NetName=NetC8_1 Pin=C8-1
+Removed Pin From Net: NetName=NetC8_1 Pin=C9-1
+Removed Pin From Net: NetName=2V8 Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=NetC28_2 Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=SIM_DATA Pin=C31-2
+Removed Pin From Net: NetName=GND Pin=C52-1
+Removed Pin From Net: NetName=SIM_CLK Pin=C52-2
+Removed Pin From Net: NetName=GND Pin=C53-1
+Removed Pin From Net: NetName=SIM_RST Pin=C53-2
+Removed Pin From Net: NetName=NetC28_2 Pin=R7-2
+Removed Pin From Net: NetName=NetC8_1 Pin=U4-4
+Removed Member From Class: ClassName=04 Open MCU Member=C28
+Removed Member From Class: ClassName=04 Open MCU Member=C31
+Removed Member From Class: ClassName=04 Open MCU Member=C52
+Removed Member From Class: ClassName=04 Open MCU Member=C53
+Removed Member From Class: ClassName=RF Member=NetC28_2
+Change component parameters: Designator = "D2" ("D2"); Footprint = "DIODE - SMC"; UniqueID = "\KXSVRGCZ" ("\KXSVRGCZ")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_DIODE_ SMCJ33"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "SMCJ33ABTR-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R54" ("R54"); Footprint = "0603 - R"; UniqueID = "\WVOQGVBA" ("\WVOQGVBA")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_ÐI?N TR?_R0603 100K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "R0603: 100K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100K_NM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R56" ("R56"); Footprint = "0603 - R"; UniqueID = "\VOJHZRMB" ("\VOJHZRMB")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_RES_R0603 10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "R0603: 10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K_NM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "0603 - C"; UniqueID = "\HPLUXJET" ("\HPLUXJET")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_CAP_C0603 10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "EMK107BBJ106MA-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "C0603: 10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "0603 - C"; UniqueID = "\PFHEHNIR" ("\PFHEHNIR")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_CAP_C0603 10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "EMK107BBJ106MA-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "C0603: 10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "0603 - C"; UniqueID = "\OJPUZUIB" ("\OJPUZUIB")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_T? ÐI?N_C0603 100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CL10C104JB8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "C0603: 100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U7" ("U7"); Footprint = "8 - SOIC"; UniqueID = "\EPHHFHXF" ("\EPHHFHXF")
+Change component parameters (AddParameter): Name = "Company ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Gigadevice"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR 2"; Value = "Winbond"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR 3"; Value = "Cfeon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR 4"; Value = "Puyasemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GD25LQ64ESIGR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN 2"; Value = "W25Q64JWSSIQ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN 3"; Value = "EN25S64-104RIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN 4"; Value = "P25Q64LE-SUH-IR"; VariantName = "[No Variations]"
+Added Component: Designator=C21(0603 - C)
+Add component (AddParameter): Name = "Company ID"; Value = "VT_T? ÐI?N_C0603 100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CL10C104JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "C0603: 100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C23(0603 - C)
+Add component (AddParameter): Name = "Company ID"; Value = "VT_T? ÐI?N_C0603 22pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CL10C220JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "C0603: 22pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=R58(0402 - R)
+Add component (AddParameter): Name = "Company ID"; Value = "VT_ÐI?N TR?_R0402 0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "R0402: 0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R76(0402 - R)
+Add component (AddParameter): Name = "Company ID"; Value = "VT_ÐI?N TR?_R0402 0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "R0402: 0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=2V8 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=NetC28_2 Pin=C9-2
+Added Pin To Net: NetName=1V8 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=SIM_DATA Pin=C23-2
+Added Pin To Net: NetName=NetC8_1 Pin=R7-2
+Added Pin To Net: NetName=2V8 Pin=R58-1
+Added Pin To Net: NetName=NetC8_1 Pin=R58-2
+Added Pin To Net: NetName=NetC28_2 Pin=R76-2
+Added Pin To Net: NetName=2V8 Pin=U4-4
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetR7_2
+Change Net Name : Old Net Name=NetC28_2 New Net Name=NetC9_2
+Added Member To Class: ClassName=04 Open MCU Member=Component C21 100nF
+Added Member To Class: ClassName=04 Open MCU Member=Component C23 22pF
+Added Member To Class: ClassName=04 Open MCU Member=Component R58 0R
+Added Member To Class: ClassName=04 Open MCU Member=Component R76 0R

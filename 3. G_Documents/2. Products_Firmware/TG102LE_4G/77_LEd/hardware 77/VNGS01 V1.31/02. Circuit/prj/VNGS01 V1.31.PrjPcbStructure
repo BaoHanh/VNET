@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=00 Block diagram.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=00 Block diagram.SchDoc|FileName=01 Cover.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=00 Block diagram.SchDoc|FileName=02 Root.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=00 Block diagram.SchDoc|FileName=03 Power DC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=00 Block diagram.SchDoc|FileName=04 Open MCU.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=00 Block diagram.SchDoc|FileName=05 RFID.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=00 Block diagram.SchDoc|FileName=06 Memories.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=00 Block diagram.SchDoc|FileName=07 Motion.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=00 Block diagram.SchDoc|FileName=08 Peripherral.SchDoc|SheetNumber= 

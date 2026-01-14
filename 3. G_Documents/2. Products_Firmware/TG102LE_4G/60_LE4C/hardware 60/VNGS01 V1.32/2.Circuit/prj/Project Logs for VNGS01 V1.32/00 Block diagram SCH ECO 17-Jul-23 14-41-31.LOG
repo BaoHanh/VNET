@@ -1,0 +1,11 @@
+Remove Pin=R7-1 From Net=GNSS_PWRCTRL
+Remove Pin=R76-1 From Net=RF_ANT
+Change Component Comment: Designator=R56 Old Comment==Value New Comment=10K
+Change Component Comment: Designator=C14 Old Comment==Value New Comment=1uF
+Change Component Comment: Designator=C20 Old Comment==Value New Comment=2.2uF
+Change Component Comment: Designator=R54 Old Comment==Value New Comment=100K
+Change Component Comment: Designator=C19 Old Comment==Value New Comment=2.2uF
+Change Component Comment: Designator=D2 Old Comment=SMCJ33A New Comment=SMCJ33CA
+Add Pin To Net: Pin=R7-1 Old Net=GNSS_PWRCTRL New Net=RF_ANT
+Change Pin Designator/Name:  Old Designator=C19-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C19-1 Old Name=1 New Designator =2 New Name=2

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=INT_MOTION Pin=R58-1
+Removed Member From Class: ClassName=07 Motion Member=R58
+Added Pin To Net: NetName=INT_MOTION Pin=U8-5

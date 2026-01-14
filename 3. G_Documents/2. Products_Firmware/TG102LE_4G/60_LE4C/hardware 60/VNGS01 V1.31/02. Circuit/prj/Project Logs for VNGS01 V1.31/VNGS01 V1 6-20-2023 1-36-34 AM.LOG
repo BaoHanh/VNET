@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=GND1-0
+Removed Member From Class: ClassName=03 Power DC Member=GND1
+Change Component Comment : Designator=J8 Old Comment=1V8 New Comment=Test Point

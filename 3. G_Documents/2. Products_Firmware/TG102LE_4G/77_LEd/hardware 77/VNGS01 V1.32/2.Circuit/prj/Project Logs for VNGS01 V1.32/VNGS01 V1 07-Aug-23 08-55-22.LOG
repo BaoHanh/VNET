@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=V_CHECK Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Change Component Footprint: Designator=C1 Old Footprint=CAP_ALUM_SMD_5054_TYPE_C New Footprint=1210 - C
+Change Component Comment : Designator=C1 Old Comment=10uF/35V New Comment=3.3uF/100V
+Change Component Comment : Designator=D2 Old Comment=SMCJ33CA New Comment=SMCJ33A
+Change Component Designator: OldDesignator=1V8 NewDesignator=J8
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP_ALUM_SMD_5054_TYPE_C"; UniqueID = "\AMZVGVIV" ("\AMZVGVIV")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_CAP_C1210 3.3uF 100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "C3225X7S2A335M200AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN2"; Value = "885012209071"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "C1210: 3.3uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3uF/100V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=V_CHECK Pin=C1-2

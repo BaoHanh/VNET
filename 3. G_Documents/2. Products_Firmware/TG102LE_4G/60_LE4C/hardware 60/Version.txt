@@ -1,0 +1,4 @@
+*) V1.33:
+	- Buzzer chuyển từ Bot lên Top
+	- Thêm chân Detect cho Module
+	- 

@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=4V Pin=R11-1
+Removed Pin From Net: NetName=NetLS1_1 Pin=R11-2
+Removed Pin From Net: NetName=ACC IN Pin=R51-1
+Removed Pin From Net: NetName=NetR50_2 Pin=R51-2
+Removed Member From Class: ClassName=04 Open MCU Member=R11
+Change Component Comment : Designator=R51 Old Comment=210K New Comment=10K
+Change Component Designator: OldDesignator=1V8 NewDesignator=J8
+Change component parameters: Designator = "R51" ("R51"); Footprint = "0603 - R"; UniqueID = "\YMHQTPYK" ("\YMHQTPYK")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_RES_R0603 10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "R0603: 10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0603 - R)
+Add component (AddParameter): Name = "Company ID"; Value = "VT_RES_ R0603 120R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AF0603FR-07120RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "R0603: 120R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=4V Pin=R11-1
+Added Pin To Net: NetName=NetLS1_1 Pin=R11-2
+Added Pin To Net: NetName=NetR50_2 Pin=R51-1
+Added Pin To Net: NetName=ACC IN Pin=R51-2
+Added Member To Class: ClassName=04 Open MCU Member=Component R11 120R

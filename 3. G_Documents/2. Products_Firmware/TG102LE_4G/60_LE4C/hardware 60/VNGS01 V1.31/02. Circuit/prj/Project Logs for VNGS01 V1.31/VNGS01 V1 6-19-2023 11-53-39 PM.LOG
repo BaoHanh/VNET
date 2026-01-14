@@ -1,0 +1,10 @@
+Added Component: Designator=R58(RESC-0402 (1005))
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402JR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPR"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sloder"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=2V8 Pin=R58-1
+Added Pin To Net: NetName=GND Pin=R58-2
+Added Member To Class: ClassName=04 Open MCU Member=Component R58 2K2
