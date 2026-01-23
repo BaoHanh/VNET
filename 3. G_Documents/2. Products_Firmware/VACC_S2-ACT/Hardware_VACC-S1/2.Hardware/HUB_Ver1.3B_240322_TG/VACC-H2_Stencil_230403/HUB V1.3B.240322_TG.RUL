@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: F:\0.CAC_MACH_THIET_KE_VNET\Project 2021\04. AC02(HUB)\Design\Ver1.3B.240322\Circuit\pcb\HUB V1.3B.240322_TG.PcbDoc
+RuleKind=Clearance|RuleName=MCU|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Polygon|Scope=Board|Minimum=15.75
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

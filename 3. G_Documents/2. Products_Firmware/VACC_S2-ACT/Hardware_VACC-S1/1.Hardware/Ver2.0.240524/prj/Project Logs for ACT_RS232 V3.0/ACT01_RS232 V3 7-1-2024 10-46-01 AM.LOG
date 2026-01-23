@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=L2 Old Footprint=INDUCTOR-IHLP New Footprint=1210 - L
+Change component parameters: Designator = "L2" ("L2"); Footprint = "INDUCTOR-IHLP"; UniqueID = "\MCGQKAZO" ("\MCGQKAZO")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_IND_3225 2.2uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "LQH32PN2R2NN0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN2"; Value = "SWPA3015S2R2NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "L3225: 2.2uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uH"; VariantName = "[No Variations]"

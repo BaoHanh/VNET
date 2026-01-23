@@ -1,0 +1,16 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [HUB V1.3B.240322_TG.PrjPcb]
+   Generated File[HUB V1.3B.240322_TG.GTP]
+   Generated File[HUB V1.3B.240322_TG.GBP]
+   Generated File[HUB V1.3B.240322_TG.GD1]
+   Generated File[HUB V1.3B.240322_TG.GG1]
+   Generated File[HUB V1.3B.240322_TG.RUL]
+   Generated File[HUB V1.3B.240322_TG.EXTREP]
+   Generated File[HUB V1.3B.240322_TG.REP]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 1:52:13 PM On 4/3/2024

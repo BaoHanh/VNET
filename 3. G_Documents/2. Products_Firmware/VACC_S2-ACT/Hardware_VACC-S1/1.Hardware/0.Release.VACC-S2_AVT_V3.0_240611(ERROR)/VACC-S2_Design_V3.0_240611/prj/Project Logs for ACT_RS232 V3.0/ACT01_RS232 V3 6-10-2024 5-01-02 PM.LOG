@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VIN Pin=H1-1
+Removed Pin From Net: NetName=GND Pin=H1-4
+Removed Pin From Net: NetName=CB_1 Pin=H1-5
+Removed Pin From Net: NetName=CB_2 Pin=H1-6
+Removed Pin From Net: NetName=NetD1_1 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Member From Class: ClassName=ACT01_RS232 V3.0 Member=J1
+Removed Member From Class: ClassName=ACT01_RS232 V3.0 Member=J2
+Added Pin To Net: NetName=NetD1_1 Pin=H1-1
+Added Pin To Net: NetName=CB_2 Pin=H1-4
+Added Pin To Net: NetName=GND Pin=H1-5
+Added Pin To Net: NetName=CB_1 Pin=H1-6
+Change Net Name : Old Net Name=NetD1_1 New Net Name=VIN
+Change Net Name : Old Net Name=VIN New Net Name=VIN_1

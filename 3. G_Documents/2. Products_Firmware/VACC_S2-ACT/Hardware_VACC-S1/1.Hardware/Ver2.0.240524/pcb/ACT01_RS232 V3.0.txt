@@ -1,0 +1,205 @@
+Board Information Report
+Filename     : F:\0.CAC_MACH_THIET_KE_VNET\Project 2024\5. NHIETDO\Ver2.0.240524_RS232\Circuit\pcb\ACT01_RS232 V3.0.PcbDoc
+Date         : 7/15/2024
+Time         : 9:59:15 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 36mmx27.4mm
+    Components on board, 38
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 72
+    Connections routed, 72
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 2, 0, 15, 0, 0, 3, 0
+    Bottom Layer, 14, 92, 0, 76, 0, 0, 38, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 41
+    Mechanical 2, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 8, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 9, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 10, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 13, 2, 0, 0, 140, 0, 0, 0, 0
+    Mechanical 15, 0, 0, 0, 218, 0, 0, 1, 0
+    Mechanical 16, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 59, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 13, 81, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 6, 0, 0, 26, 20, 1, 1, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 22, 0, 0, 144, 73, 4, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 4, 0, 0, 1, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 21
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 81
+count : 1
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 1.307, 843.027, 85%
+    Bottom Layer, 1.131, 729.719, 74%
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mm, 94, 0
+    0.3mm, 0, 81
+    0.85mm, 4, 0
+    1.1mm, 3, 0
+    1.27mm, 6, 0
+count : 5
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    0.2mm, 81
+    0.45mm, 4
+    0.5mm, 1
+    0.551mm, 2
+    1.524mm, 6
+count : 5
+
+Mid Layer Annular Ring Size, Count
+    0.2mm, 81
+    0.45mm, 4
+    0.5mm, 1
+    0.551mm, 2
+    1.524mm, 6
+count : 5
+
+Bottom Layer Annular Ring Size, Count
+    0.2mm, 81
+    0.45mm, 4
+    0.5mm, 1
+    0.551mm, 2
+    1.524mm, 6
+count : 5
+
+Pad Solder Mask, Count
+    0mm, 2
+    0.1016mm, 105
+count : 2
+
+Pad Paste Mask, Count
+    -0.025mm, 30
+    0mm, 77
+count : 2
+
+Pad Pwr/Gnd Expansion, Count
+    0.508mm, 107
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.254mm, 107
+count : 1
+
+Pad Relief Air Gap, Count
+    0.254mm, 107
+count : 1
+
+Pad Relief Entries, Count
+    4, 107
+count : 1
+
+Via Solder Mask, Count
+    0.1016mm, 81
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    0.508mm, 81
+count : 1
+
+Track Width, Count
+    0.0254mm, 4
+    0.1mm, 464
+    0.1524mm, 14
+    0.1778mm, 19
+    0.178mm, 11
+    0.2mm, 20
+    0.3mm, 57
+    0.4mm, 14
+    0.5mm, 20
+count : 9
+
+Arc Line Width, Count
+    0mm, 1
+    0.1mm, 19
+    0.1778mm, 6
+    0.2mm, 1
+    0.25mm, 3
+    0.3mm, 12
+    0.5mm, 2
+count : 7
+
+Arc Radius, Count
+    0.0762mm, 1
+    0.1mm, 1
+    0.125mm, 3
+    0.5mm, 1
+    0.5274mm, 1
+    0.575mm, 1
+    0.65mm, 1
+    0.7mm, 2
+    0.725mm, 3
+    0.7651mm, 1
+    0.775mm, 1
+    0.8485mm, 18
+    1mm, 1
+    1.5335mm, 6
+    1.76mm, 3
+count : 15
+
+Arc Degrees, Count
+    2, 1
+    24, 1
+    33, 2
+    44, 2
+    90, 25
+    93, 1
+    180, 1
+    358, 6
+    360, 5
+count : 9
+
+Text Height, Count
+    0mm, 1
+    1mm, 80
+    1.2mm, 2
+    1.5mm, 7
+    1.524mm, 1
+    2mm, 1
+    3mm, 1
+count : 7
+
+Text Width, Count
+    0.254mm, 93
+count : 1
+
+Net Track Width, Count
+    0.2032mm, 24
+count : 1
+
+Net Via Size, Count
+    0.5mm, 24
+count : 1

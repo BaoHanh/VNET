@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [ACT_RS232 V3.0.PrjPcb]
+   Generated File[Pick Place for ACT01_RS232 V3.0.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:08:24 AM On 7/1/2024

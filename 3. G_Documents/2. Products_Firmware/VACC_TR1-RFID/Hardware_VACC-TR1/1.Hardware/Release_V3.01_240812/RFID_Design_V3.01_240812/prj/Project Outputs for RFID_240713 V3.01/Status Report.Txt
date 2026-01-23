@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RFID_240713 V3.01.PrjPcb]
+   Generated File[RFID_240713 V3.01.TXT]
+   Generated File[RFID_240713 V3.01.LDP]
+   Generated File[RFID_240713 V3.01.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:59:01 AM On 8/22/2024

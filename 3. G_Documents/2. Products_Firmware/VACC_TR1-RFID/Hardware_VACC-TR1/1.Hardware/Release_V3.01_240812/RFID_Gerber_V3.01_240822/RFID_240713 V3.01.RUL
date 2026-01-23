@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: F:\0.CAC_MACH_THIET_KE_VNET\Project 2024\6. RFID\RFID\pcb\RFID_240713 V3.01.PcbDoc
+RuleKind=Clearance|RuleName=Polygon|Scope=Board|Minimum=15.75
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

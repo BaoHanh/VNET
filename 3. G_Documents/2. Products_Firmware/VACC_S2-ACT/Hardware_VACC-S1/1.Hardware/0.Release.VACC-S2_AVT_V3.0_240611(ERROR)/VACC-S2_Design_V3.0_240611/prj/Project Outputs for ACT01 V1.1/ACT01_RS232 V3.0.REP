@@ -1,0 +1,360 @@
+*************************************************************
+FileName = ACT01_RS232 V3.0.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 59
+      File : ACT01_RS232 V3.0.GM59
+
+    Adding Layer      : Mechanical 59
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : ACT01_RS232 V3.0.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : ACT01_RS232 V3.0.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : ACT01_RS232 V3.0.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D11
+    D13
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 10
+      File : ACT01_RS232 V3.0.GM10
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 9
+      File : ACT01_RS232 V3.0.GM9
+
+    Adding Layer      : Mechanical 9
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 8
+      File : ACT01_RS232 V3.0.GM8
+
+    Adding Layer      : Mechanical 8
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : ACT01_RS232 V3.0.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ACT01_RS232 V3.0.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ACT01_RS232 V3.0.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ACT01_RS232 V3.0.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ACT01_RS232 V3.0.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ACT01_RS232 V3.0.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D34
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ACT01_RS232 V3.0.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ACT01_RS232 V3.0.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ACT01_RS232 V3.0.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ACT01_RS232 V3.0.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : ACT01_RS232 V3.0.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ACT01_RS232 V3.0.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ACT01_RS232 V3.0.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D23
+    D24
+    D25
+    D26
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : ACT01_RS232 V3.0.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : ACT01_RS232 V3.0.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D60
+*************************************************************
+

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TXD Pin=R10-2
+Added Component: Designator=D5(SOD-123)
+Add component (AddParameter): Name = "Company ID"; Value = "VT_DIODE_1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "DIODES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TXD Pin=D5-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R10-2
+Added Net: Name=NetD5_1
+Added Member To Class: ClassName=ACT01_RS232 V3.0 Member=Component D5 1N4148

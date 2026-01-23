@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[HUB V1.3B.240322_TG (1).TXT]
+   Generated File[HUB V1.3B.240322_TG (1).LDP]
+   Generated File[HUB V1.3B.240322_TG (1).DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:26:08 On 03/04/2024

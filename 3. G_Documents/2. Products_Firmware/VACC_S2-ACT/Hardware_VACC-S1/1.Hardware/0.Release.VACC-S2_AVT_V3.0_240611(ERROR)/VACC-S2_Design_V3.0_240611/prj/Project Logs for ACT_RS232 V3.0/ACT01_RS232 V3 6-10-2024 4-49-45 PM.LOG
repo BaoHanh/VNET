@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=L1 Old Footprint=INDUCTOR-5D28 New Footprint=IND_3x3
+Change Component Comment : Designator=L1 Old Comment=33uH, 1.5A New Comment=SWPA3015S330MT
+Change component parameters: Designator = "L1" ("L1"); Footprint = "INDUCTOR-5D28"; UniqueID = "\WKFEXORW" ("\WKFEXORW")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "xx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Shenzhen Sunlord Electronics Co., Ltd."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "SWPA3015S330MT"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED - 0603 - R)
+Add component (AddParameter): Name = "Company ID"; Value = "VT_LED_0603 RED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Everlight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "QTLP601CRTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "LED 0603 - RED"; VariantName = "[No Variations]"
+Added Component: Designator=R12(0603 - R)
+Add component (AddParameter): Name = "Company ID"; Value = "VT_RES_R0603 3.3K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0603FR-073K3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "R0603: 3.3K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=LED Pin=R12-2
+Added Pin To Net: NetName=LED Pin=U2-13
+Added Net: Name=LED
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R12-1
+Added Net: Name=NetD4_1
+Added Member To Class: ClassName=ACT01_RS232 V3.0 Member=Component D4 RED
+Added Member To Class: ClassName=ACT01_RS232 V3.0 Member=Component R12 3.3K

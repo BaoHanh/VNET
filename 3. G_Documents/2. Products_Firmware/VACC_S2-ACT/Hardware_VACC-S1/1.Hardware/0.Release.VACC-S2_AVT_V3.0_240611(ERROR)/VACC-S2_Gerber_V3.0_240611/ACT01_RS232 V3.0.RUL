@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: F:\0.CAC_MACH_THIET_KE_VNET\Project 2024\5. NHIETDO\Ver2.0.240524_RS232\Circuit\pcb\ACT01_RS232 V3.0.PcbDoc
+RuleKind=Clearance|RuleName=KeepOut|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Polygon|Scope=Board|Minimum=15.75
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

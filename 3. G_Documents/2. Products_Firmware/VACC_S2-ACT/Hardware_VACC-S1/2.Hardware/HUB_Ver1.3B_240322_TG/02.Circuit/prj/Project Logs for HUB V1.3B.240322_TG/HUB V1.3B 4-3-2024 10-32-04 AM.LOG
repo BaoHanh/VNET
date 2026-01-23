@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=D3 Old Footprint=Diode - SMA New Footprint=DIODE - SMC
+Change Component Comment : Designator=F1 Old Comment=60V-550mA New Comment=60V-750mA
+Change Component Comment : Designator=D3 Old Comment=SMAJ30A New Comment=SMCJ33A
+Change component parameters: Designator = "D3" ("D3"); Footprint = "Diode - SMA"; UniqueID = "\GXWRENMN" ("\GXWRENMN")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_DIODE_ SMCJ33"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "SMCJ33ABTR-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1" ("F1"); Footprint = "2016 - Fuse"; UniqueID = "\DGXJGJGR" ("\DGXJGJGR")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_Fuse_60V - 750mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "2016L075/60MR"; VariantName = "[No Variations]"
+Change Class Name : Old Net Name=HUB V1.3.22.0712 New Net Name=HUB V1.3B.240322_TG
+Added Member To Class: ClassName=HUB V1.3B.240322_TG Member=Component C21 100nF

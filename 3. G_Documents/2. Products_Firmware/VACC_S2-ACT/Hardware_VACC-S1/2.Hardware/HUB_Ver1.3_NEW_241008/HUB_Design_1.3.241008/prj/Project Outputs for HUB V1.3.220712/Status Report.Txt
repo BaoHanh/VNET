@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [HUB V1.3.220712.PrjPcb]
+   Generated File[Pick Place for HUB V1.3.220712.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:44:56 On 28/11/2022

@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=L2 Old Footprint=0805 - L New Footprint=INDUCTOR-IHLP
+Change Component Comment : Designator=L2 Old Comment=15uH New Comment=2.2uH
+Change component parameters: Designator = "L2" ("L2"); Footprint = "0805 - L"; UniqueID = "\HFDCXGCA" ("\HFDCXGCA")
+Change component parameters (AddParameter): Name = "Company ID"; Value = "VT_IND_1212 2.2uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "IHLP1616AB-11"; VariantName = "[No Variations]"
+Added Room: Name=ACT01_RS232 V3.0

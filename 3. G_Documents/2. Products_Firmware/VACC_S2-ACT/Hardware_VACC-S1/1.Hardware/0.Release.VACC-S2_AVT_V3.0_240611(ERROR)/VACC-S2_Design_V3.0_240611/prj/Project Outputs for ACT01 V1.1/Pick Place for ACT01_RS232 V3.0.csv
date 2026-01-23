@@ -1,0 +1,52 @@
+Altium Designer Pick and Place Locations
+F:\0.CAC_MACH_THIET_KE_VNET\Project 2024\5. NHIETDO\Ver2.0.240524_RS232\Circuit\prj\Project Outputs for ACT01 V1.1\Pick Place for ACT01_RS232 V3.0.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/07/24
+Time:       11:08
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R12","3.3K","BottomLayer","0603_-_R","56.102","757.874","270","RES SMD 3.3K OHM 1% 1/10W 0603"
+"D4","RED","TopLayer","LED_-_0603_-_R","55.118","899.606","90","LED RED CLEAR 0603 SMD"
+"L2","2.2uH","BottomLayer","1210_-_L","1353.150","535.827","270","FIXED IND 2.2UH 1.6A 76 MOHM SMD"
+"H1","KF128-6P","TopLayer","KF128_-_6P","708.268","882.874","0","6-Pin Plug-in Terminal Block Connector 5.08mm Pitch Through Hole"
+"C11","100nF","BottomLayer","0603_-_C","469.488","482.284","180","CAP CER 100nF 50V C0G/NP0 0603"
+"C10","100nF","BottomLayer","0603_-_C","465.551","655.509","180","CAP CER 100nF 50V C0G/NP0 0603"
+"R13","1K","BottomLayer","0603_-_R","811.024","510.827","180","RES SMD 1K OHM 1% 1/10W 0603"
+"R11","10R","BottomLayer","0603_-_R","438.976","565.942","270","RES SMD 10 OHM 1% 1/10W 0603"
+"R10","1K","BottomLayer","0603_-_R","899.606","770.669","0","RES SMD 1K OHM 1% 1/10W 0603"
+"Q3","2N3904","BottomLayer","SOT23B","839.567","403.543","90","TRANS NPN 40V 0.2A SOT-23"
+"Q2","2N3906","BottomLayer","SOT23B","801.181","617.126","90","TRANS PNP 40V 0.2A SOT23"
+"J7","Jumper 4","BottomLayer","JP4_2mm","312.008","250.000","270","Jumper 4, 2.54mmx4"
+"R6","10K","BottomLayer","0603_-_R","216.535","332.677","270","RES SMD 10K OHM 1% 1/10W 0603"
+"R1","3.3K","BottomLayer","0603_-_R","879.921","223.425","0","RES SMD 3.3K OHM 1% 1/10W 0603"
+"C8","100nF","BottomLayer","0603_-_C","790.354","257.874","90","CAP CER 100nF 50V C0G/NP0 0603"
+"R9","10K","BottomLayer","0603_-_R","500.000","564.961","270","RES SMD 10K OHM 1% 1/10W 0603"
+"R8","10K","BottomLayer","0603_-_R","898.622","715.551","180","RES SMD 10K OHM 1% 1/10W 0603"
+"U1","HT7463A","BottomLayer","SOT23-6_L","1141.732","437.992","0","52V/600mA, 1.25MHz/550kHz
+Asynchronous Step Down Converter"
+"R4","47K","BottomLayer","0603_-_R","949.803","446.850","270","RES SMD 47K OHM 1% 1/10W 0603"
+"R3","15K","BottomLayer","0603_-_R","1018.701","446.850","270","RES SMD 15K OHM 1% 1/10W 0603"
+"R2","1M","BottomLayer","0603_-_R","1226.378","542.323","0","RES SMD 1M OHM 1% 1/10W 0603"
+"L1","SWPA3015S330MT","BottomLayer","IND_3X3","1156.496","213.583","180","FIXED IND 33UH 430MA 1.066OHM SM"
+"F1","Fuse 30V","BottomLayer","1206_-_Fuse","1361.811","709.449","270","PTC RESET FUSE 30V 0.125A 1206"
+"D3","SMAJ30A","BottomLayer","Diode_-_SMA","1170.276","635.827","180","TVS DIODE 30V 48.4V DO214AC"
+"D2","60V 2A","BottomLayer","SOD-123","1286.417","166.260","180","DIODE SCHOTTKY 60V 2A SOD123W"
+"C5","3.3uF/100V","BottomLayer","1210_-_C","1351.181","366.142","90","CAP CER 3.3UF 100V X7S 1210"
+"C4","100nF","BottomLayer","0603_-_C","1255.906","406.496","90","CAP CER 100nF 50V C0G/NP0 0603"
+"C3","100nF","BottomLayer","0603_-_C","1017.323","290.354","270","CAP CER 100nF 50V C0G/NP0 0603"
+"C2","107B","BottomLayer","3528_-_TANTALUM","1010.827","133.858","270","CAP TANT 100UF 6.3V 10% 1411"
+"U2","STM32G030F6P6TR","BottomLayer","TSSOP20","574.803","255.905","180","IC MCU 32BIT 32KB FLASH 20TSSOP"
+"R7","10R","BottomLayer","0603_-_R","605.315","573.816","270","RES SMD 10 OHM 1% 1/10W 0603"
+"R5","10K","BottomLayer","0603_-_R","665.354","572.835","270","RES SMD 10K OHM 1% 1/10W 0603"
+"J3","Jumper 2","BottomLayer","JP2","1365.158","995.079","90","Jumper 2, 2.54mmx2"
+"D1","1N4148","BottomLayer","SOD-123","1222.441","758.858","90","DIODE GEN PURP 100V 300MA SOD123"
+"C9","100nF","BottomLayer","0603_-_C","986.221","687.992","90","CAP CER 100nF 50V C0G/NP0 0603"
+"C7","100nF","BottomLayer","0603_-_C","635.827","490.158","180","CAP CER 100nF 50V C0G/NP0 0603"
+"C6","100nF","BottomLayer","0603_-_C","633.858","657.480","180","CAP CER 100nF 50V C0G/NP0 0603"
+"C1","100nF","BottomLayer","0603_-_C","1166.339","320.866","0","CAP CER 100nF 50V C0G/NP0 0603"
