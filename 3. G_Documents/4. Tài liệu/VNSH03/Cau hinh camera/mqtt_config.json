@@ -1,0 +1,30 @@
+{
+  "broker": "vnet-dev.aithings.vn",
+  "port": "8813",
+  "pub": "nvr/AITDVR_PROTO_2/control",
+  "sub": "nvr/AITDVR_PROTO_2/debug",
+  "user": "",
+  "pass": "",
+  "commands": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
